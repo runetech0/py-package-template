@@ -48,6 +48,7 @@ push = true
 
 "pyproject.toml" = [
     'current_version = "{version}"',
+    'version = "{version}"' 
 ]
 
 "pacakge_name/__init__.py" = [
